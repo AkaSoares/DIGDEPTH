@@ -1,0 +1,2 @@
+capX = x;
+capY = y;

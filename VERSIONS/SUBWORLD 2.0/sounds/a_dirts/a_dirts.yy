@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"a_dirts",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":46.584,
+  "exportDir":"",
+  "name":"a_dirts",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"a_dirts.mp3",
+  "volume":0.52,
+}

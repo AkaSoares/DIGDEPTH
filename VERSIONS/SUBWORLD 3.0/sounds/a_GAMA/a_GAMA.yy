@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"a_GAMA",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":144,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.728,
+  "name":"a_GAMA",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"a_GAMA.mp3",
+  "type":0,
+  "volume":1.0,
+}

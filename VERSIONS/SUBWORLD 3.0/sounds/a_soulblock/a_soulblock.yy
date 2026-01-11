@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"a_soulblock",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.757551,
+  "name":"a_soulblock",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"a_soulblock.mp3",
+  "type":0,
+  "volume":1.0,
+}

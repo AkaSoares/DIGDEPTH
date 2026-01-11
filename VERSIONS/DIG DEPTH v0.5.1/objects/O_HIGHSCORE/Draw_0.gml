@@ -1,0 +1,18 @@
+draw_set_halign(fa_center);
+draw_set_valign(fa_middle);
+draw_set_color(c_white);
+draw_text(room_width - 256, 64, "BLOCKS: " + string(global.cube));
+draw_text(room_width - 256, 128, "SCORE: " + string(global.score));
+
+
+
+
+
+
+
+
+
+
+
+
+

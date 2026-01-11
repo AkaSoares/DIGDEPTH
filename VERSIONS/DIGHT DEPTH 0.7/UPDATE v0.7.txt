@@ -1,0 +1,15 @@
+DIG DEPTH v0.7
+07/03/2024
+
+-Hq video
+-New phew sprites redesign
+-stop after scratch
+-scratch fix
+-walking fix
+-Hub + Music
+-New map
+-Hole
+-Gem follows Player
+-Bonus animation
+-Cyan blocks
+

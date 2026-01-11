@@ -1,0 +1,64 @@
+move = true;
+//movimento
+image_speed = 0;
+
+
+//Follow
+array_size = 94;
+
+for(var i = array_size-1 ; i >= 0; i--) {
+	pos_x[i] = x;
+	pos_y[i] = y;
+}
+
+
+
+gem = 0;
+
+
+dano = false;
+vida_max = 1;
+vida = vida_max;
+if (vida >= 3) {
+	vida = 3;	
+}
+
+inv_time =  alarm[1] = room_speed * 3;
+
+toma_dano = function() {
+	if (dano) return;
+	vida--;
+	dano = true;
+	image_blend = c_green
+	spd = 0.5; 
+	image_speed = 0.5;
+	alarm[1] = room_speed * 3;
+
+}
+
+
+
+
+L = 0;
+R = 0;
+U = 0;
+D = 0;
+hsp = 0;
+vsp = 0;
+
+spd = 1;
+tar_x = x;
+tar_y = y;
+
+
+cooldown = 0;
+cooldown_delay = 15;
+alive = true;
+
+
+
+
+
+
+
+

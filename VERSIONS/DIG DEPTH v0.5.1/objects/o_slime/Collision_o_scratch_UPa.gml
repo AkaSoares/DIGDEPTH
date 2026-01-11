@@ -1,0 +1,13 @@
+//player kill
+alive = false;
+
+
+
+
+
+
+
+
+
+
+

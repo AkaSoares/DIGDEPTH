@@ -1,0 +1,11 @@
+DIG DEPTH v0.4 
+27/1/24
+
+-Redesig sprite
+-combo bar
+-slime damage
+-speed powerUP fix
+-New font
+-Scratch sound
+-time and score swap
+-gem add

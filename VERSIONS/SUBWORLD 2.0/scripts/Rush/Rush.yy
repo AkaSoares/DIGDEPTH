@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Rush",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Rush",
+  "parent":{
+    "name":"rBadies",
+    "path":"folders/rBadies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

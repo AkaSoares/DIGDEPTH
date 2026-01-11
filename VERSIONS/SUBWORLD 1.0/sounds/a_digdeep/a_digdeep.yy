@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"a_digdeep",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":512,
+  "compression":0,
+  "conversionMode":0,
+  "duration":99.12,
+  "name":"a_digdeep",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"a_digdeep.mp3",
+  "type":1,
+  "volume":0.61,
+}

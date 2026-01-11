@@ -1,0 +1,19 @@
+DIG DEPTH v0.6
+14/02/2024
+
+-Life
+-beet + sound
+-block break sound
+-new gem(ruby)
+-timer
+-shards counter + sound
+-new sprites
+-timer animiation
+-wreckage animation
+-new map
+-death animation
+-soft, hard, blocks
+-drop itens
+-particles
+
+

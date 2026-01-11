@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"a_dirt_break",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":0.696,
+  "exportDir":"",
+  "name":"a_dirt_break",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"a_dirt_break.mp3",
+  "volume":1.0,
+}

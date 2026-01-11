@@ -1,0 +1,14 @@
+DIG DEPTH v0.5
+04/02/2024
+
+-New placeholder music
+-walls
+-Gui fix
+-Crystal gem
+-Open test level "the arena"
+-get treasure animation
+-stone block
+-fix scratch animation
+-entrance and exit
+-basic result screen
+-fullscreen

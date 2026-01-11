@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Sratch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sratch",
+  "parent":{
+    "name":"Scratch",
+    "path":"folders/Phew/Scratch.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
